@@ -18,7 +18,7 @@ Depined Auto Bot
 
 2. **Sign Up with Email**: Create an account using your email address.
 
-3. **Submit Access Code**: Use the access code: `0K5DMr0QMv85`
+3. **Submit Access Code**: Use the access code: `Syb7YGXz6ei6`
 
 4. **Download the Extension**: Install the Depined extension from the Chrome Web Store:  
    [Depined Extension on Chrome Web Store](https://chromewebstore.google.com/detail/depined/pjlappmodaidbdjhmhifbnnmmkkicjoc)
